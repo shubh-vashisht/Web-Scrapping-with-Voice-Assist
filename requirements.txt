@@ -1,0 +1,14 @@
+beautifulsoup4==4.9.3
+certifi==2020.12.5
+chardet==4.0.0
+comtypes==1.1.10
+idna==2.10
+lxml==4.6.3
+PyAudio @ file:///C:/Users/Shubh%20Vashisht/desktop/projects/pythonproject2/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+pypiwin32==223
+pyttsx3==2.90
+pywin32==300
+requests==2.25.1
+soupsieve==2.2.1
+SpeechRecognition==3.8.1
+urllib3==1.26.4

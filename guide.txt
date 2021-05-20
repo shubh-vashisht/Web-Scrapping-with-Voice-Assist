@@ -1,0 +1,18 @@
+Guide to Corona Virus Net Scrapper:
+The whole program is voice assisted, and you only have to type when you want to continue.
+Whenever the program displays "listening...." you can request data by speaking into your microphone.
+The commands can be of the certain types:
+1. a. say "Total Cases": give the total cases in the entire world
+or you can say,
+   b. say "How many total cases are there?" : this also returns the total number of cases
+   c. say "Give me total cases": returns total number of cases in the world
+2. say "Total Recovered cases": returns total number of recovered cases
+    say "Give me recovered cases": same result as above
+3. say "total deaths" or "how many total deaths happened?": returns the total deaths
+4. say "cases in {country_name}" or "how many cases in {country_name}" : returns total cases in named country
+eg. if I say "cases in India" : this will return the total cases in India
+5. say "active cases in {country_name}" or "active cases {country_name}": this will return current active cases in that country
+6. say "deaths in {country_name}" or "deaths {country_name}": this will return total deaths in given country
+7. say "update" : this will update the data and give you new numbers. (! only use this once a day)
+8. say say "exit" or "end": this will end the program
+
